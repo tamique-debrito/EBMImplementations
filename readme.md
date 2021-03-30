@@ -6,7 +6,7 @@ Right now there is:
 * A simple arrow image dataset for validation of models
 
 Boltzmann machine results:
-![BM training results 001](https://github.com/tamique-debrito/EBMImplementations/bm_001.png)
+![BM training results 001](./bm_001.png)
 ![BM training results 200](https://github.com/tamique-debrito/EBMImplementations/bm_500.png)
 ![BM training results 500](https://github.com/tamique-debrito/EBMImplementations/bm_500.png)
 
