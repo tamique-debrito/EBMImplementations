@@ -5,12 +5,14 @@ Right now there is:
 * Restricted Boltzmann machine
 * A simple arrow image dataset for validation of models
 
-Boltzmann machine results:
+Boltzmann machine results:  
+
 ![BM training results 001](./bm_001.png)
 ![BM training results 200](./bm_500.png)
 ![BM training results 500](./bm_500.png)
 
-Restricted Boltzmann machine results:
+Restricted Boltzmann machine results:  
+
 ![RBM training results 001](./rbm_001.png)
 ![RBM training results 200](./rbm_500.png)
 ![RBM training results 500](./rbm_500.png)
