@@ -8,7 +8,7 @@ Right now there is:
 Boltzmann machine results:  
 
 ![BM training results 001](./bm_001.png)
-![BM training results 200](./bm_500.png)
+![BM training results 200](./bm_200.png)
 ![BM training results 500](./bm_500.png)
 
 Restricted Boltzmann machine results:  
@@ -17,5 +17,6 @@ Restricted Boltzmann machine results:
 ![RBM training results 200](./rbm_500.png)
 ![RBM training results 500](./rbm_500.png)
 
-Real Arrow Samples:
+Real Arrow Samples:  
+
 ![Arrow Samples](./arrows.png)
