@@ -14,7 +14,7 @@ Boltzmann machine results:
 Restricted Boltzmann machine results:  
 
 ![RBM training results 001](./rbm_001.png)
-![RBM training results 200](./rbm_500.png)
+![RBM training results 200](./rbm_200.png)
 ![RBM training results 500](./rbm_500.png)
 
 Real Arrow Samples:  
