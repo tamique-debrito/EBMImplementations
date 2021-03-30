@@ -72,7 +72,16 @@ def run_train(lr=0.1, epochs=10, n_data_samples=10, n_gibbs_samples=10, collecti
             collected_samples.append([boltzmann_machine.gibbs_sampling()[0].reshape((Y, X)) for _ in range(3)])
 
     return collected_samples
+
+def show_arrows():
+    ds = ArrowDataset(Y, X, S, 0)
+    for i in range(1, 4):
+        plt.subplot(1, 3, i)
+        plt.imshow(ds[0])
+    plt.show()
+
 if __name__ == "__main__":
+    #show_arrows()
     collection_timesteps = [1, 200, 500]
     samples = run_train(lr=0.05, epochs=500, n_data_samples=50, n_gibbs_samples=20, collection_timesteps=collection_timesteps)
 
