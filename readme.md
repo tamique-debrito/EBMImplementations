@@ -5,6 +5,12 @@ Right now there is:
 * Restricted Boltzmann machine
 * A simple arrow image dataset for validation of models
 
+As can be seen below, the output from the Boltzmann machines progressively begins to look like the reference arrow samples.
+
+Reference Arrow Samples:  
+
+![Arrow Samples](./arrows.png)
+
 Boltzmann machine results:  
 
 ![BM training results 001](./bm_001.png)
@@ -16,7 +22,3 @@ Restricted Boltzmann machine results:
 ![RBM training results 001](./rbm_001.png)
 ![RBM training results 200](./rbm_200.png)
 ![RBM training results 500](./rbm_500.png)
-
-Real Arrow Samples:  
-
-![Arrow Samples](./arrows.png)
